@@ -20,3 +20,10 @@ Next, I formed a list of images to be randomly displayed.
 Then, I constructed a label for an image, added a button and assigned funcitonality of the button.
 
 <img width="831" alt="Screen Shot 2021-11-06 at 4 19 32 PM" src="https://user-images.githubusercontent.com/89553126/140624105-762cbcb9-7f4b-454a-8331-ee972d3a45e6.png">
+
+Finally, I closed the mainloop which is the last command given to compile all the previous commands and displays the window as soon as the program is running.
+
+<img width="383" alt="Screen Shot 2021-11-06 at 4 21 12 PM" src="https://user-images.githubusercontent.com/89553126/140624149-27d6bd33-5830-4914-9b27-be267357814f.png">
+
+### Final Product:
+
